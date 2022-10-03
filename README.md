@@ -6,9 +6,9 @@
 ## Описание проектов:
 |Название   	|Сфера   	|Основные этапы   	|Стек   	|
 |---	|---	|---	|---	|
-|[Исследование надёжности заёмщиков](https://github.com/Vorosh/Data_Analyst_YP)   	|Финансы   	|Предобработка данных; лемматизация; исследовательский анализ данных   	|`Python`, `Pandas`, `PyMystem3`, `Collections`   	|
-|[Исследование рынка недвижимости в Санкт-Петербурге](https://github.com/Vorosh/Data_Analyst_YP)   	|Недвижимость   	|Предобработка данных; исследовательский анализ данных; поиск корреляций   	|`Python`, `Pandas`, `Matplotlib`, `Seaborn`   	|
-|[Определение выгодного тарифа для телеком компании](https://github.com/Vorosh/Data_Analyst_YP)   	|Телеком   	|Предобработка данных; объединение таблиц; расчет показателей; статистический анализ данных   	|`Python`, `Pandas`, `NumPy`, `Matplotlib`, `SciPy`   	|
+|[Исследование надёжности заёмщиков](https://github.com/Vorosh/Data_Analyst_YP/blob/main/finance/project2_git.ipynb)   	|Финансы   	|Предобработка данных; лемматизация; исследовательский анализ данных   	|`Python`, `Pandas`   	|
+|[Исследование рынка недвижимости в Санкт-Петербурге](https://github.com/Vorosh/Data_Analyst_YP/blob/main/realty/project3_git.ipynb)   	|Недвижимость   	|Предобработка данных; исследовательский анализ данных; поиск корреляций   	|`Python`, `Pandas`, `Matplotlib`, `Seaborn`   	|
+|[Определение выгодного тарифа для телеком компании](https://github.com/Vorosh/Data_Analyst_YP/blob/main/telekom/project4_git.ipynb)   	|Телеком   	|Предобработка данных; объединение таблиц; расчет показателей; статистический анализ данных   	|`Python`, `Pandas`, `NumPy`, `Matplotlib`, `SciPy`   	|
 |---	|---	|---	|---	|
 |---	|---	|---	|---	|
 |---	|---	|---	|---	|
