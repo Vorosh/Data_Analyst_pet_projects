@@ -21,5 +21,5 @@
 
 ## Диплом о прохождении курса
 
-![]([https://user-images.githubusercontent.com/117563470/206790296-f1cc6f40-918d-4af5-a904-24ba2f6be754.jpg](https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png))
-![]([https://user-images.githubusercontent.com/117563470/206790329-dd8d96e8-3a86-47e6-936d-cda0bb2d5ca8.jpg](https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png))
+![]([(https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png](https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png))
+![]([(https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png](https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png))
