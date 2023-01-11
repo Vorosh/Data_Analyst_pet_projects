@@ -21,4 +21,4 @@
 
 ## Диплом о прохождении курса
 
-![]([(https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png)](https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png))
+![Diplom](https://www.clipartmax.com/png/middle/265-2655834_work-in-progress-icon.png))
