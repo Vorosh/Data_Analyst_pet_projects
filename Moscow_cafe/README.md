@@ -1,5 +1,7 @@
 # Исследование рынка заведений общественного питания Москвы
 
+Открыть через NbViewer для отображения карт: [ссылка](https://nbviewer.org/github/Vorosh/Data_Analyst_YP/blob/main/Moscow_cafe/project7_final_git.ipynb)
+
 Презентация:  [ссылка](https://disk.yandex.ru/i/ayrB_xY2z3tLZg)
 
 ## Описание проекта: 
