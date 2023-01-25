@@ -9,6 +9,6 @@
 3) Как соотносятся темы карточек и темы источников?
 
 ### Инструменты:
-Tableau
-Библиотеки: Pandas, SQLalchemy
+- Tableau
+- Библиотеки: Pandas, SQLalchemy
 ### Дашборд в Tableau: [ссылка](https://public.tableau.com/app/profile/alexander4727/viz/yandex-dzen_Vorosh/-)
