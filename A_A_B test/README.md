@@ -8,3 +8,5 @@
 
 Библиотеки:
 Pandas, NumPy, Math, SciPy, Matplotlib, Plotly
+
+***Статус проекта: Завершен***
