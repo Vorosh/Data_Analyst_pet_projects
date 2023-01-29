@@ -33,3 +33,5 @@
 
 Библиотеки:
 Pandas, NumPy, Matplotlib, SciPy
+
+***Статус проекта: Завершен***
