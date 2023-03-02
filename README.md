@@ -24,7 +24,4 @@
 [Сборный проект 2. Изучение воронки продаж и результатов А/А/В теста](https://github.com/Vorosh/Data_Analyst_YP/blob/main/A_A_B%20test/sborn2_final.ipynb) | Изучаев поведение пользователей приложения стартапа и результаты проведения ААВ-теста. | анализ AAB-теста, построение и анализ воронки продаж | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `SciPy`, `Seaborn`, `Datetime`, `Math`, `Plotly` |
 [Дашборд для Яндекс.Дзен](https://github.com/Vorosh/Data_Analyst_YP/blob/main/Tableau%20Yandex-Dzen/project8_tableau.ipynb) | Анализ взаимодействия пользователей с карточками Яндекс.Дзен. | Навыки: подключение к БД с помощью Jupyter Notebook, построение дашборда в Tableau, подготовка презентации | `Pandas`, `Sqlalchemy`, `SQL`, `Tableau`|
 
-
-## Диплом о прохождении курса
-
 ![Diplom](https://miro.medium.com/max/1200/1*8IzlhBK486n5KXU90Go3qw.jpeg)
