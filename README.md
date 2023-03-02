@@ -5,7 +5,7 @@
 |---	|---	|---	|---	|
 |[Формирование модели монетизации для игры Space brothers](https://github.com/Vorosh/Data_Analyst_YP/tree/main/Game_monetization_model) | Игры | Задача исследования - сформировать новую модель монетизации мобильной игры Space brothers | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly` ,`Seaborn`, `Scipy`|
 |[Анализ результатов A/B теста](https://github.com/Vorosh/Data_Analyst_YP/blob/main/AB_test_project/AB_git.ipynb) | Покупки на сайте | Задача - провести оценку результатов А/В теста, используя данные с действиями пользователей, а также ТЗ. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly` ,`Seaborn`, `Scipy`|
-|[Books vs Covid / SQL]([https://github.com/Vorosh/Data_Analyst_YP/tree/main/Game_monetization_model](https://github.com/Vorosh/Data_Analyst_YP/blob/main/SQL_BOOKS_COVID/SQL_git.ipynb)) | Стартап | Задача -  проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта. | `Python`, `Pandas`, `SQL`, `sqlalchemy `|
+|[Books vs Covid / SQL](https://github.com/Vorosh/Data_Analyst_YP/blob/main/SQL_BOOKS_COVID/SQL_git.ipynb) | Стартап | Задача -  проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта. | `Python`, `Pandas`, `SQL`, `sqlalchemy `|
 
 # Мои pet-проекты.
 
