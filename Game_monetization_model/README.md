@@ -2,6 +2,8 @@
 
 ### Открыть через NbViewer для отображения графиков: [ссылка](https://nbviewer.org/github/Vorosh/Data_Analyst_YP/blob/main/Game_monetization_model/Game_monetization_git.ipynb)
 
+## Дашборд: [ссылка](https://public.tableau.com/app/profile/alexander4727/viz/GameanalysisSpaceBrothers/Dashboard1?publish=yes)
+
 ## Описание проекта:
 Задача исследования - сформировать новую модель монетизации мобильной игры Space brothers
 
