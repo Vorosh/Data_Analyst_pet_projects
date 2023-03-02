@@ -1,3 +1,4 @@
+(https://avatars.dzeninfra.ru/get-zen_doc/175604/pub_613ce0d3d5bd492818781057_613ce0e9013c623482db84b7/scale_1200)
 # Дипломные проекты:
 
 ## Описание проектов:
